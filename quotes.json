@@ -12,7 +12,8 @@
         "A sweet potato is but a nicer potato.",
         "Rice is ice, but with an extra R.",
         "Nothing is quite as sweet as a box of Nerds candy.",
-        "Your stomach is only as strong as your fork hand."
+        "Your stomach is only as strong as your fork hand.",
+        "One cannot simply skip desert."
     ],
     "life": [
         "A life partner is someone you trust; someone who will be there for you.",
@@ -21,5 +22,10 @@
         "Being the bigger person wins any argument.",
         "The secret to a happy life is plenty of friends.",
         "You cannot defeat a winning attitude."
+    ],
+    "relationships": [
+        "If you don't want burnt toast, make it yourself.",
+        "A woman in the kitchen is worth two in the hand.",
+        "Men and women behave together much like cats and dogs."
     ]
 }
